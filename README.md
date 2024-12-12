@@ -21,8 +21,11 @@ Determining Stress Level
 3. Stigma Surrounding Mental Health
    There is a negative stigma associated with mental health issues in Indonesia, preventing individuals from seeking 
    professional help
-Given these factors, developing this mental health application (Urmood) to assess stress levels in individuals and provide 
-treatment suggestions. We hope Urmood could contribute significantly to improving mental wellbeing among Indonesian, especially 
-young generation.
+
+#Output:
+1. Stress Level: Stres Ringan (Mild Stress), Stres Sedang (Moderate Stress), and Stres Berat (Severe Stres)
+2. Treatment Suggestions based on Stress Level:
+   - Articles that provide reliable information about managing stress
+   - Professional contacts for more serious treatment
 
 **Final Score From Bangkit Academy: 90/100**
