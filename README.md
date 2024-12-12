@@ -28,4 +28,4 @@ Determining Stress Level
    - Articles that provide reliable information about managing stress
    - Professional contacts for more serious treatment
 
-**Final Score From Bangkit Academy: 90/100**
+**Final Score From Bangkit Academy by Google, GoTo, and Traveloka: 90/100**
