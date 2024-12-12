@@ -1,9 +1,7 @@
 # Machine-Learning-Project
 Determining Stress Level
 
-#Total data: 300 data, with:
- Training data: 225 data
- Testing data: 75 data
+#Total data: 300 data, with: 225 training data and 75 testing data
 
 #Considering People's Stress Level based on:
 - Age
