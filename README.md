@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-Determining Stress Level
+Determining Stress Level with classification
 
 #Total data: 300 data, with: 225 training data and 75 testing data
 
